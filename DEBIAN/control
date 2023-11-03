@@ -1,0 +1,9 @@
+Package: kernel-compiler
+Version: 1.0
+Architecture: all
+Maintainer:hc841 <hc841@outlook.com>
+Depends: libncurses-dev, ccache, bc, flex, bison, fakeroot, build-essential
+Section: devel
+Priority: optional
+Homepage: https://github.com/seu-usuario/seu-repo
+Description: A custom compilation tool for the Linux kernel.
