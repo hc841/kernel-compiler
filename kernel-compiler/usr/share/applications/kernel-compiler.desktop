@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Kernel Compiler
-Comment=A script to compile the Linux kernel.
-Exec=sh -c 'kernel-compiler; update-desktop-database; update-menus; kbuildsycoca5; exec $SHELL'
-Icon=
-Terminal=true
-Type=Application
-Categories=Development;
