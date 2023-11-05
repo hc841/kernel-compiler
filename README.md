@@ -9,9 +9,8 @@ Kernel Compiler is a simple script to help you compile and install a custom Linu
 - Install the newly compiled kernel with a simple prompt.
 
 ## How to Use
-1. Download the .deb file from the [Releases](https://github.com/hc841/kernel-compiler/releases) section.
-2. Install the .deb package on your Linux system.
-3. Run the `kernel-compiler` script in your terminal to compile and install a custom Linux kernel.
+1. Download the script file from the [Releases](https://github.com/hc841/kernel-compiler/releases) section.
+2. Run the scripton your Linux system.
 
 Feel free to use and modify this script and .deb package to suit your needs. Special thanks to OpenAI's GPT-3 for assistance in developing this project.
 
